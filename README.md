@@ -1,8 +1,7 @@
 # Microsoft Powerapps Bank App:
 
 ### This a bank app using power apps, a test of capabilities of Microsoft Powerapps.
-
-
+##
 ## 1. Launch Screen:
 
 ### On this screen you enter the Login Screen through the photo. In this photo you have the "reset function" applied to different "text fields" so that no data is saved from any past session:
